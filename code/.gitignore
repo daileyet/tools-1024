@@ -1,0 +1,9 @@
+### Java ###
+/target
+*.class
+*.jar
+*.project
+*.classpath
+dependency-reduced-pom.xml
+/output
+/.settings
